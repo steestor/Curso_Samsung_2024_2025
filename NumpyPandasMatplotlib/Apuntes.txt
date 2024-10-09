@@ -1,0 +1,2 @@
+Mostrar por pantalla los datos del id x
+titanic_df[titanic_df['PassagerId'] == x]
