@@ -1,0 +1,36 @@
+1 - Instalar Python 3.8 desde la web oficial:
+https://www.python.org/downloads/release/python-380/
+
+Añadimos el gestor de paquetes desde la página:
+https://bootstrap.pypa.io/get-pip.py
+
+Lo guardamos en nuestro proyecto y lo arrancamos con el comando:
+python .\get-pip.py
+
+Creamos el entorno virtual:
+python -m pip install virtualenv
+
+y lo arrancamos:
+python -m virtualenv entorno
+
+esto nos creará la carpeta entorno donde va a poner todos los archivos necesarios
+
+si queremos activar nuestro entorno iremos a:
+entorno/Scripts/activate.bat
+desde una terminal CMD
+
+Luego instalaremos:
+python -m pip install numpy
+python -m pip install scipy
+python -m pip install joblib
+python -m pip install pandas
+python -m pip install matplotlib
+python -m pip install scikit-learn
+python
+import sklearn
+------------------------
+
+En kaggle tenemos los dataset del curso:
+World Happiness Report: Es un dataset que desde el 2012 recolecta variables sobre diferentes países y las relaciona con el nivel de felicidad de sus habitantes. Nota: Este data set lo vamos a utilizar para temas de regresiones
+The Ultimate Halloween Candy Power Ranking: Es un estudio online de 269 mil votos de más de 8371 IPs deferentes. Para 85 tipos de dulces diferentes se evaluaron tanto características del dulce como la opinión y satisfacción para generar comparaciones. Nota: Este dataset lo vamos a utilizar para temas de clustering
+Heart disease prediction: Es un subconjunto de variables de un estudio que realizado en 1988 en diferentes regiones del planeta para predecir el riesgo a sufrir una enfermedad relacionada con el corazón. Nota: Este data set lo vamos a utilizar para temas de clasificación.
