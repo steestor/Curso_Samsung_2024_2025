@@ -1,0 +1,8 @@
+{"time":"2024-11-25T16:59:12.7565068+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-25T16:59:12.7566722+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\34665\\Documents\\curso_samsung_IA_2024\\DeepLearning\\wandb\\run-20241125_165910-7ha7af0j\\logs\\debug-core.log"}
+{"time":"2024-11-25T16:59:12.8820148+01:00","level":"INFO","msg":"created new stream","id":"7ha7af0j"}
+{"time":"2024-11-25T16:59:12.8820148+01:00","level":"INFO","msg":"stream: started","id":"7ha7af0j"}
+{"time":"2024-11-25T16:59:12.8833407+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"7ha7af0j"}
+{"time":"2024-11-25T16:59:12.8838534+01:00","level":"INFO","msg":"sender: started","stream_id":"7ha7af0j"}
+{"time":"2024-11-25T16:59:12.8838534+01:00","level":"INFO","msg":"handler: started","stream_id":"7ha7af0j"}
+{"time":"2024-11-25T16:59:13.2142267+01:00","level":"INFO","msg":"Starting system monitor"}

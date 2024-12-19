@@ -1,0 +1,20 @@
+{"time":"2024-11-25T16:38:25.5856969+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-25T16:38:25.5856969+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\34665\\Documents\\curso_samsung_IA_2024\\DeepLearning\\wandb\\run-20241125_163823-vcpvyyij\\logs\\debug-core.log"}
+{"time":"2024-11-25T16:38:25.7029441+01:00","level":"INFO","msg":"created new stream","id":"vcpvyyij"}
+{"time":"2024-11-25T16:38:25.7029441+01:00","level":"INFO","msg":"stream: started","id":"vcpvyyij"}
+{"time":"2024-11-25T16:38:25.7039648+01:00","level":"INFO","msg":"sender: started","stream_id":"vcpvyyij"}
+{"time":"2024-11-25T16:38:25.7044232+01:00","level":"INFO","msg":"handler: started","stream_id":"vcpvyyij"}
+{"time":"2024-11-25T16:38:25.7044232+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"vcpvyyij"}
+{"time":"2024-11-25T16:38:26.0001001+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T16:38:27.5128053+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:38:27.5148379+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:38:28.1416669+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-25T16:38:28.1416669+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-25T16:38:28.1416669+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-25T16:38:28.5251236+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.1956583,"progress":"644B/644B"},{"desc":"uploading output.log","runtime_seconds":0.1956583}],"total_operations":2}}
+{"time":"2024-11-25T16:38:28.5578367+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:38:29.7872756+01:00","level":"INFO","msg":"stream: closing","id":"vcpvyyij"}
+{"time":"2024-11-25T16:38:29.7877819+01:00","level":"INFO","msg":"handler: closed","stream_id":"vcpvyyij"}
+{"time":"2024-11-25T16:38:29.7877819+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vcpvyyij"}
+{"time":"2024-11-25T16:38:29.7879289+01:00","level":"INFO","msg":"sender: closed","stream_id":"vcpvyyij"}
+{"time":"2024-11-25T16:38:29.7885831+01:00","level":"INFO","msg":"stream: closed","id":"vcpvyyij"}

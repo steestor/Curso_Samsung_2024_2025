@@ -1,0 +1,40 @@
+{"time":"2024-11-25T17:21:14.3823901+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-25T17:21:14.3823901+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\34665\\Documents\\curso_samsung_IA_2024\\DeepLearning\\wandb\\run-20241125_172112-qb8g4i4z\\logs\\debug-core.log"}
+{"time":"2024-11-25T17:21:14.5052696+01:00","level":"INFO","msg":"created new stream","id":"qb8g4i4z"}
+{"time":"2024-11-25T17:21:14.5052696+01:00","level":"INFO","msg":"stream: started","id":"qb8g4i4z"}
+{"time":"2024-11-25T17:21:14.50628+01:00","level":"INFO","msg":"handler: started","stream_id":"qb8g4i4z"}
+{"time":"2024-11-25T17:21:14.5079613+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"qb8g4i4z"}
+{"time":"2024-11-25T17:21:14.5079613+01:00","level":"INFO","msg":"sender: started","stream_id":"qb8g4i4z"}
+{"time":"2024-11-25T17:21:14.8701637+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T17:22:39.5355192+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:22:39.5805011+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:22:39.602155+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:27:54.603606+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:28:14.1804688+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:28:14.2790331+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:28:14.2914885+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:28:37.4727728+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:30:01.1170265+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:30:01.1489118+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:30:01.1616521+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:30:06.9604133+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:30:06.9849411+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:30:07.0596895+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:30:07.067216+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:30:19.2244383+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:30:19.249712+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:30:19.3222189+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:30:19.3341707+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T17:31:32.8153961+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T17:31:33.9111852+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T17:31:33.9145026+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T17:31:34.2457417+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-25T17:31:34.2457417+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-25T17:31:34.2457417+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-25T17:31:34.6646667+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T17:31:34.8555962+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-25T17:31:35.9151719+01:00","level":"INFO","msg":"stream: closing","id":"qb8g4i4z"}
+{"time":"2024-11-25T17:31:35.9151719+01:00","level":"INFO","msg":"handler: closed","stream_id":"qb8g4i4z"}
+{"time":"2024-11-25T17:31:35.9151719+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"qb8g4i4z"}
+{"time":"2024-11-25T17:31:35.9151719+01:00","level":"INFO","msg":"sender: closed","stream_id":"qb8g4i4z"}
+{"time":"2024-11-25T17:31:35.9157861+01:00","level":"INFO","msg":"stream: closed","id":"qb8g4i4z"}

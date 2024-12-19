@@ -1,0 +1,38 @@
+2024-11-28 21:22:40,037 INFO    MainThread:34460 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-11-28 21:22:40,037 INFO    MainThread:34460 [wandb_setup.py:_flush():79] Configure stats pid to 34460
+2024-11-28 21:22:40,037 INFO    MainThread:34460 [wandb_setup.py:_flush():79] Loading settings from C:\Users\34665\.config\wandb\settings
+2024-11-28 21:22:40,037 INFO    MainThread:34460 [wandb_setup.py:_flush():79] Loading settings from C:\Users\34665\Documents\curso_samsung_IA_2024\DeepLearning2\wandb\settings
+2024-11-28 21:22:40,037 INFO    MainThread:34460 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-28 21:22:40,037 INFO    MainThread:34460 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-28 21:22:40,038 INFO    MainThread:34460 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-28 21:22:40,038 INFO    MainThread:34460 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-28 21:22:40,038 INFO    MainThread:34460 [wandb_init.py:_log_setup():533] Logging user logs to C:\Users\34665\Documents\curso_samsung_IA_2024\DeepLearning2\wandb\run-20241128_212240-21i825oo\logs\debug.log
+2024-11-28 21:22:40,038 INFO    MainThread:34460 [wandb_init.py:_log_setup():534] Logging internal logs to C:\Users\34665\Documents\curso_samsung_IA_2024\DeepLearning2\wandb\run-20241128_212240-21i825oo\logs\debug-internal.log
+2024-11-28 21:22:40,038 INFO    MainThread:34460 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001E23CA0F490>
+2024-11-28 21:22:40,039 INFO    MainThread:34460 [wandb_init.py:init():619] calling init triggers
+2024-11-28 21:22:40,039 INFO    MainThread:34460 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 10, 'batch_size': 200, 'loss_function': 'categorical_crossentropy', 'metrics': 'accuracy', 'architecture': 'Conv2D(32(3x3))xMaxpooling(2x2)xConv2D(64(3x3))xMaxpooling(2x2)xDense(1024)xDropout(0.5)xDense(10)', 'dataset': 'MNIST'}
+2024-11-28 21:22:40,039 INFO    MainThread:34460 [wandb_init.py:init():669] starting backend
+2024-11-28 21:22:40,039 INFO    MainThread:34460 [wandb_init.py:init():673] sending inform_init request
+2024-11-28 21:22:40,042 INFO    MainThread:34460 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-11-28 21:22:40,044 INFO    MainThread:34460 [wandb_init.py:init():686] backend started and connected
+2024-11-28 21:22:40,061 INFO    MainThread:34460 [wandb_run.py:_label_probe_notebook():1339] probe notebook
+2024-11-28 21:22:40,062 INFO    MainThread:34460 [wandb_run.py:_label_probe_notebook():1349] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-11-28 21:22:40,062 INFO    MainThread:34460 [wandb_init.py:init():781] updated telemetry
+2024-11-28 21:22:40,063 INFO    MainThread:34460 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-28 21:22:41,562 INFO    MainThread:34460 [wandb_init.py:init():867] starting run threads in backend
+2024-11-28 21:22:43,131 INFO    MainThread:34460 [wandb_run.py:_console_start():2456] atexit reg
+2024-11-28 21:22:43,131 INFO    MainThread:34460 [wandb_run.py:_redirect():2305] redirect: wrap_raw
+2024-11-28 21:22:43,132 INFO    MainThread:34460 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2024-11-28 21:22:43,132 INFO    MainThread:34460 [wandb_run.py:_redirect():2395] Redirects installed.
+2024-11-28 21:22:43,139 INFO    MainThread:34460 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-28 21:33:25,880 INFO    MainThread:34460 [wandb_run.py:_finish():2155] finishing run steestor-universitat-polit-cnica-de-val-ncia/MNIST project/21i825oo
+2024-11-28 21:33:25,881 INFO    MainThread:34460 [jupyter.py:save_history():459] not saving jupyter history
+2024-11-28 21:33:25,881 INFO    MainThread:34460 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 21:33:25,881 INFO    MainThread:34460 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-28 21:33:25,882 INFO    MainThread:34460 [wandb_run.py:_atexit_cleanup():2420] got exitcode: 0
+2024-11-28 21:33:25,882 INFO    MainThread:34460 [wandb_run.py:_restore():2402] restore
+2024-11-28 21:33:25,882 INFO    MainThread:34460 [wandb_run.py:_restore():2408] restore done
+2024-11-28 21:33:28,023 INFO    MainThread:34460 [wandb_run.py:_footer_history_summary_info():3960] rendering history
+2024-11-28 21:33:28,023 INFO    MainThread:34460 [wandb_run.py:_footer_history_summary_info():3992] rendering summary
+2024-11-28 21:33:28,034 INFO    MainThread:34460 [wandb_run.py:_footer_sync_info():3921] logging synced files

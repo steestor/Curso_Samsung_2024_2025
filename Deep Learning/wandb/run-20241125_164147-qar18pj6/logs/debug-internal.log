@@ -1,0 +1,36 @@
+{"time":"2024-11-25T16:41:49.3209816+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-25T16:41:49.3222084+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\34665\\Documents\\curso_samsung_IA_2024\\DeepLearning\\wandb\\run-20241125_164147-qar18pj6\\logs\\debug-core.log"}
+{"time":"2024-11-25T16:41:49.4436754+01:00","level":"INFO","msg":"created new stream","id":"qar18pj6"}
+{"time":"2024-11-25T16:41:49.4436754+01:00","level":"INFO","msg":"stream: started","id":"qar18pj6"}
+{"time":"2024-11-25T16:41:49.4436754+01:00","level":"INFO","msg":"handler: started","stream_id":"qar18pj6"}
+{"time":"2024-11-25T16:41:49.4445118+01:00","level":"INFO","msg":"sender: started","stream_id":"qar18pj6"}
+{"time":"2024-11-25T16:41:49.4445118+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"qar18pj6"}
+{"time":"2024-11-25T16:41:49.7750485+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T16:41:51.1787705+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T16:41:51.2088863+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T16:41:51.2227886+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T16:41:57.5670402+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T16:41:57.5847302+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T16:41:57.6608989+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T16:41:57.6792349+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T16:41:59.0813403+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T16:41:59.8225125+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T16:41:59.8706748+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T16:41:59.8819211+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T16:42:58.1380778+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T16:42:59.3572569+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T16:42:59.415362+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T16:42:59.4268733+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T16:59:10.6264335+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T16:59:10.686256+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T16:59:10.6878477+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T16:59:10.9927326+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-25T16:59:10.9927326+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-25T16:59:10.9927326+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-25T16:59:11.4740938+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T16:59:11.6897174+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-25T16:59:12.7429007+01:00","level":"INFO","msg":"stream: closing","id":"qar18pj6"}
+{"time":"2024-11-25T16:59:12.7429007+01:00","level":"INFO","msg":"handler: closed","stream_id":"qar18pj6"}
+{"time":"2024-11-25T16:59:12.7429007+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"qar18pj6"}
+{"time":"2024-11-25T16:59:12.7434129+01:00","level":"INFO","msg":"sender: closed","stream_id":"qar18pj6"}
+{"time":"2024-11-25T16:59:12.7434129+01:00","level":"INFO","msg":"stream: closed","id":"qar18pj6"}

@@ -1,0 +1,20 @@
+{"time":"2024-11-25T17:18:38.508719+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-25T17:18:38.508719+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\34665\\Documents\\curso_samsung_IA_2024\\DeepLearning\\wandb\\run-20241125_171836-kuqzuzlb\\logs\\debug-core.log"}
+{"time":"2024-11-25T17:18:38.634367+01:00","level":"INFO","msg":"created new stream","id":"kuqzuzlb"}
+{"time":"2024-11-25T17:18:38.634367+01:00","level":"INFO","msg":"stream: started","id":"kuqzuzlb"}
+{"time":"2024-11-25T17:18:38.636371+01:00","level":"INFO","msg":"handler: started","stream_id":"kuqzuzlb"}
+{"time":"2024-11-25T17:18:38.6381762+01:00","level":"INFO","msg":"sender: started","stream_id":"kuqzuzlb"}
+{"time":"2024-11-25T17:18:38.6381762+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"kuqzuzlb"}
+{"time":"2024-11-25T17:18:42.3404708+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T17:21:12.3147616+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T17:21:12.3160185+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T17:21:12.6067841+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-25T17:21:12.6067841+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-25T17:21:12.6067841+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-25T17:21:13.0473493+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T17:21:13.3086144+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-25T17:21:14.357765+01:00","level":"INFO","msg":"stream: closing","id":"kuqzuzlb"}
+{"time":"2024-11-25T17:21:14.357765+01:00","level":"INFO","msg":"handler: closed","stream_id":"kuqzuzlb"}
+{"time":"2024-11-25T17:21:14.357765+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"kuqzuzlb"}
+{"time":"2024-11-25T17:21:14.3582775+01:00","level":"INFO","msg":"sender: closed","stream_id":"kuqzuzlb"}
+{"time":"2024-11-25T17:21:14.3584749+01:00","level":"INFO","msg":"stream: closed","id":"kuqzuzlb"}

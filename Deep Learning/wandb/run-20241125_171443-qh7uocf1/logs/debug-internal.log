@@ -1,0 +1,20 @@
+{"time":"2024-11-25T17:14:45.9984024+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-25T17:14:45.9984024+01:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\34665\\Documents\\curso_samsung_IA_2024\\DeepLearning\\wandb\\run-20241125_171443-qh7uocf1\\logs\\debug-core.log"}
+{"time":"2024-11-25T17:14:46.1251356+01:00","level":"INFO","msg":"created new stream","id":"qh7uocf1"}
+{"time":"2024-11-25T17:14:46.1251356+01:00","level":"INFO","msg":"stream: started","id":"qh7uocf1"}
+{"time":"2024-11-25T17:14:46.1251356+01:00","level":"INFO","msg":"handler: started","stream_id":"qh7uocf1"}
+{"time":"2024-11-25T17:14:46.1261211+01:00","level":"INFO","msg":"sender: started","stream_id":"qh7uocf1"}
+{"time":"2024-11-25T17:14:46.1261211+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"qh7uocf1"}
+{"time":"2024-11-25T17:14:46.4352015+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T17:17:17.3489858+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-25T17:17:17.3506401+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-25T17:17:17.6549655+01:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-25T17:17:17.6549655+01:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-25T17:17:17.6554836+01:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-25T17:17:18.3046597+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T17:17:18.3633249+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.0586686}],"total_operations":1}}
+{"time":"2024-11-25T17:17:19.5395557+01:00","level":"INFO","msg":"stream: closing","id":"qh7uocf1"}
+{"time":"2024-11-25T17:17:19.5395557+01:00","level":"INFO","msg":"handler: closed","stream_id":"qh7uocf1"}
+{"time":"2024-11-25T17:17:19.5395557+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"qh7uocf1"}
+{"time":"2024-11-25T17:17:19.5395557+01:00","level":"INFO","msg":"sender: closed","stream_id":"qh7uocf1"}
+{"time":"2024-11-25T17:17:19.5405686+01:00","level":"INFO","msg":"stream: closed","id":"qh7uocf1"}

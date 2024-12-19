@@ -1,0 +1,26 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "3.11.7",
+  "startedAt":  "2024-11-25T16:13:29.018603Z",
+  "program":  "<python with no main file>",
+  "email":  "steestor@gmail.com",
+  "root":  "C:\\Users\\34665\\Documents\\curso_samsung_IA_2024\\DeepLearning",
+  "host":  "DESKTOP-T6GDB0I",
+  "username":  "34665",
+  "executable":  "C:\\Users\\34665\\anaconda3\\python.exe",
+  "cpu_count":  14,
+  "cpu_count_logical":  18,
+  "disk":  {
+    "/":  {
+      "total":  "484975833088",
+      "used":  "166800261120"
+    }
+  },
+  "memory":  {
+    "total":  "16898318336"
+  },
+  "cpu":  {
+    "count":  14,
+    "countLogical":  18
+  }
+}

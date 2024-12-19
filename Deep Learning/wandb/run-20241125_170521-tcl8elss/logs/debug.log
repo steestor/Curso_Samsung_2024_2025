@@ -1,0 +1,66 @@
+2024-11-25 17:05:21,947 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-11-25 17:05:21,948 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Configure stats pid to 16076
+2024-11-25 17:05:21,948 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Loading settings from C:\Users\34665\.config\wandb\settings
+2024-11-25 17:05:21,948 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Loading settings from C:\Users\34665\Documents\curso_samsung_IA_2024\DeepLearning\wandb\settings
+2024-11-25 17:05:21,949 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-25 17:05:21,949 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-25 17:05:21,949 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-25 17:05:21,950 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-25 17:05:21,950 INFO    MainThread:16076 [wandb_init.py:_log_setup():533] Logging user logs to C:\Users\34665\Documents\curso_samsung_IA_2024\DeepLearning\wandb\run-20241125_170521-tcl8elss\logs\debug.log
+2024-11-25 17:05:21,950 INFO    MainThread:16076 [wandb_init.py:_log_setup():534] Logging internal logs to C:\Users\34665\Documents\curso_samsung_IA_2024\DeepLearning\wandb\run-20241125_170521-tcl8elss\logs\debug-internal.log
+2024-11-25 17:05:21,951 INFO    MainThread:16076 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000197CA7C6A10>
+2024-11-25 17:05:21,951 INFO    MainThread:16076 [wandb_init.py:init():619] calling init triggers
+2024-11-25 17:05:21,951 INFO    MainThread:16076 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 10, 'batch_size': 200}
+2024-11-25 17:05:21,951 INFO    MainThread:16076 [wandb_init.py:init():644] re-initializing run, found existing run on stack: 4azpkxsp
+2024-11-25 17:05:21,956 INFO    MainThread:16076 [wandb_run.py:_finish():2155] finishing run steestor-universitat-polit-cnica-de-val-ncia/MNIST project/4azpkxsp
+2024-11-25 17:05:21,958 INFO    MainThread:16076 [wandb_run.py:_atexit_cleanup():2420] got exitcode: 0
+2024-11-25 17:05:21,959 INFO    MainThread:16076 [wandb_run.py:_restore():2402] restore
+2024-11-25 17:05:21,960 INFO    MainThread:16076 [wandb_run.py:_restore():2408] restore done
+2024-11-25 17:05:23,953 INFO    MainThread:16076 [wandb_run.py:_footer_history_summary_info():3960] rendering history
+2024-11-25 17:05:23,953 INFO    MainThread:16076 [wandb_run.py:_footer_history_summary_info():3992] rendering summary
+2024-11-25 17:05:23,970 INFO    MainThread:16076 [wandb_run.py:_footer_sync_info():3921] logging synced files
+2024-11-25 17:05:24,003 INFO    MainThread:16076 [wandb_init.py:init():669] starting backend
+2024-11-25 17:05:24,003 INFO    MainThread:16076 [wandb_init.py:init():673] sending inform_init request
+2024-11-25 17:05:24,011 INFO    MainThread:16076 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-11-25 17:05:24,013 INFO    MainThread:16076 [wandb_init.py:init():686] backend started and connected
+2024-11-25 17:05:24,037 INFO    MainThread:16076 [wandb_run.py:_label_probe_notebook():1339] probe notebook
+2024-11-25 17:05:24,037 INFO    MainThread:16076 [wandb_run.py:_label_probe_notebook():1349] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-11-25 17:05:24,037 INFO    MainThread:16076 [wandb_init.py:init():781] updated telemetry
+2024-11-25 17:05:24,041 INFO    MainThread:16076 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-25 17:05:24,422 INFO    MainThread:16076 [wandb_init.py:init():867] starting run threads in backend
+2024-11-25 17:05:26,410 INFO    MainThread:16076 [wandb_run.py:_console_start():2456] atexit reg
+2024-11-25 17:05:26,411 INFO    MainThread:16076 [wandb_run.py:_redirect():2305] redirect: wrap_raw
+2024-11-25 17:05:26,412 INFO    MainThread:16076 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2024-11-25 17:05:26,412 INFO    MainThread:16076 [wandb_run.py:_redirect():2395] Redirects installed.
+2024-11-25 17:05:26,413 INFO    MainThread:16076 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-25 17:05:30,116 INFO    MainThread:16076 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-25 17:05:30,117 INFO    MainThread:16076 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-25 17:05:30,186 INFO    MainThread:16076 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-25 17:05:30,200 INFO    MainThread:16076 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-25 17:05:30,201 INFO    MainThread:16076 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-25 17:05:54,399 INFO    MainThread:16076 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-25 17:05:55,754 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-11-25 17:05:55,755 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Configure stats pid to 16076
+2024-11-25 17:05:55,755 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Loading settings from C:\Users\34665\.config\wandb\settings
+2024-11-25 17:05:55,755 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Loading settings from C:\Users\34665\Documents\curso_samsung_IA_2024\DeepLearning\wandb\settings
+2024-11-25 17:05:55,755 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-25 17:05:55,755 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-25 17:05:55,756 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-25 17:05:55,756 INFO    MainThread:16076 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-25 17:05:55,756 INFO    MainThread:16076 [wandb_init.py:_log_setup():533] Logging user logs to C:\Users\34665\Documents\curso_samsung_IA_2024\DeepLearning\wandb\run-20241125_170555-2b8eib0p\logs\debug.log
+2024-11-25 17:05:55,756 INFO    MainThread:16076 [wandb_init.py:_log_setup():534] Logging internal logs to C:\Users\34665\Documents\curso_samsung_IA_2024\DeepLearning\wandb\run-20241125_170555-2b8eib0p\logs\debug-internal.log
+2024-11-25 17:05:55,758 INFO    MainThread:16076 [wandb_init.py:init():619] calling init triggers
+2024-11-25 17:05:55,758 INFO    MainThread:16076 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 10, 'batch_size': 200}
+2024-11-25 17:05:55,758 INFO    MainThread:16076 [wandb_init.py:init():644] re-initializing run, found existing run on stack: tcl8elss
+2024-11-25 17:05:55,762 INFO    MainThread:16076 [wandb_run.py:_finish():2155] finishing run steestor-universitat-polit-cnica-de-val-ncia/MNIST project/tcl8elss
+2024-11-25 17:05:55,763 INFO    MainThread:16076 [jupyter.py:save_history():459] not saving jupyter history
+2024-11-25 17:05:55,764 INFO    MainThread:16076 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-25 17:05:55,764 INFO    MainThread:16076 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-25 17:05:55,764 INFO    MainThread:16076 [wandb_run.py:_atexit_cleanup():2420] got exitcode: 0
+2024-11-25 17:05:55,765 INFO    MainThread:16076 [wandb_run.py:_restore():2402] restore
+2024-11-25 17:05:55,766 INFO    MainThread:16076 [wandb_run.py:_restore():2408] restore done
+2024-11-25 17:05:57,701 INFO    MainThread:16076 [wandb_run.py:_footer_history_summary_info():3960] rendering history
+2024-11-25 17:05:57,701 INFO    MainThread:16076 [wandb_run.py:_footer_history_summary_info():3992] rendering summary
+2024-11-25 17:05:57,718 INFO    MainThread:16076 [wandb_run.py:_footer_sync_info():3921] logging synced files

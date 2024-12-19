@@ -1,0 +1,44 @@
+_wandb:
+    value:
+        cli_version: 0.18.7
+        m: []
+        python_version: 3.11.7
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+                - 55
+            "3":
+                - 2
+                - 13
+                - 16
+                - 23
+                - 55
+            "4": 3.11.7
+            "5": 0.18.7
+            "8":
+                - 1
+                - 3
+                - 5
+            "12": 0.18.7
+            "13": windows-amd64
+architecture:
+    value: Conv2D(32(3x3))xMaxpooling(2x2)xConv2D(64(3x3))xMaxpooling(2x2)xDense(1024)xDropout(0.5)xDense(10)
+batch_size:
+    value: 200
+epochs:
+    value: 10
+learning_rate:
+    value: 0.001
+loss_function:
+    value: categorical_crossentropy
+metrics:
+    value: accuracy
